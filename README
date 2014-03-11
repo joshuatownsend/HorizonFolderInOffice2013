@@ -1,0 +1,9 @@
+This script will discover your VMware Horizon Data Folder and add it as a custom save location in Microsoft Office 2013.
+
+Tested on Windows 7 / Office 2013
+Should work with Windows 7
+Should work with Windows 8
+
+Office 2010 and earlier does not support Cloud Storage integration
+
+After running script, add the Horizon Folder to the Office Save As dialogue window as pictured in attached image.
